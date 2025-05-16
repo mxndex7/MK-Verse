@@ -43,6 +43,9 @@ O site apresenta perfis detalhados dos seguintes personagens:
 - Ermac
 - Noob Saibot
 
+## Demonstração
+O site pode ser visualizado em: https://mkverse.netlify.app/
+
 ## Responsividade
 
 O layout foi desenvolvido para garantir que o site funcione perfeitamente em:
